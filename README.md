@@ -74,6 +74,3 @@ Before contributing, please make sure that:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Just paste this entire content into your `README.md` file, and when you push it to your GitHub repository, the "Copy code" button will automatically appear for the code blocks.
