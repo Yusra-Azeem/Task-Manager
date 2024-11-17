@@ -1,6 +1,5 @@
-# React + Tailwind CSS Project
-
-This is a simple web application built using React and styled with Tailwind CSS.
+# Task-Manager
+The Task Manager application is designed to help you efficiently organize and track your tasks
 
 ## Table of Contents
 
