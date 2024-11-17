@@ -6,7 +6,7 @@ const Navbar = () => {
         
         <div className="logo font-bold text-2xl text-white">
         <span className="text-purple-700"> &lt;</span>
-        <span>Pass</span>
+        <span>Task</span>
         <span className="text-purple-700">OP/&gt;</span>
         </div>
         
